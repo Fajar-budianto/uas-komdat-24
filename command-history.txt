@@ -1,0 +1,137 @@
+    1  exit
+    2  lsb_release -a
+    3  sudo su
+    4  sudo apt install neofetch
+    5  sudo apt git
+    6  sudo apt-get install git
+    7  git --version
+    8  mkdir latihan-git
+    9  cd latihan-git
+   10  exit
+   11  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   12  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   13  sudo apt --fix-broken install
+   14  google-chrome
+   15  google-chrome-stable
+   16  sudo apt-get remove google-chrome
+   17  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   18  google-chrome
+   19  sudo apt-get remove google-chrome-stable
+   20  sudo apt-get autoremove
+   21  sudo apt update
+   22  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   23  sudo dpkg --install google-chrome-stable_current_amd64.deb
+   24  sudo apt-get install google-chrome
+   25  sudo apt instal google-chome
+   26  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   27  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   28  sudo dpkg -i google-chrome-stable_current_i386.deb
+   29  udo apt-get install -f
+   30  sudo apt-get install -f
+   31  google-chrome-stable
+   32  sudo apt-get install chromium-browser
+   33  chromium-browser
+   34  snap install chromium
+   35  /usr/bin/chromium-browser
+   36  dc /usr/bin/chromium-browser
+   37  /usr/bin/chromium-browser
+   38  /usr/bin/chromium-browser snap install chromium
+   39  apt --fix-broken install
+   40  sudo apt --fix-broken install
+   41  sudo apt-get update
+   42  udo apt-get upgrade
+   43  sudo apt-get upgrade
+   44  sudo apt --fix-broken install
+   45  apt install ./google-chrome-stable_current_amd64.deb
+   46  sudo apt-get remove google-chrome
+   47  sudo su
+   48  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   49  sudo apt-get install goole-crome
+   50  snap search chromium
+   51  cd /tmp
+   52  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   53  sudo dpkg -i google-chrome-stable_current_amd64.deb; sudo apt-get -f install
+   54  exit
+   55  chrome
+   56  google-chrome
+   57  wsl --set-default-version 2
+   58  sudo apt-get install -y xvfb
+   59  sudo apt-get -y install xorg xvfb gtk2-engines-pixbuf
+   60  sudo apt-get -y install dbus-x11 xfonts-base xfonts-100dpi xfonts-75dpi xfonts-cyrillic xfonts-scalable
+   61  sudo apt-get -y install imagemagick x11-apps
+   62  Xvfb -ac :99 -screen 0 1280x1024x16 &
+   63  export DISPLAY=:99Xvfb -ac :99 -screen 0 1280x1024x16 &
+   64  google-chrome
+   65  exit
+   66  sudo apt-get update
+   67  sudo apt upgrade
+   68  google-crome
+   69  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   70  sudo dpkg -r google-chrome-stable
+   71  dpkg --list | grep google 
+   72  sudo apt --purge remove google-chrome-stable
+   73  dpkg --list | grep google
+   74  sudo apt update
+   75  sudo apt install googlecrome
+   76  sudo apt-get install ./google-chrome-stable_current_amd64.deb
+   77  sudo apt --fix-broken install
+   78  google-crome
+   79  google-chrome
+   80  gh
+   81  sudo apt  install gh
+   82  gh
+   83  gh outh login
+   84  gh auth
+   85  gh auth login
+   86  gh status
+   87  gh init
+   88  gh auth status
+   89  google-chrome
+   90  cd latihan-git
+   91  git --version
+   92  gh --version
+   93  gh status
+   94  gh auth login
+   95  gh status
+   96  gh auth init
+   97  code.
+   98  code .
+   99  nano index.html
+  100  code .
+  101  ls
+  102  cd ..
+  103  mkdir git-latihan
+  104  ls
+  105  cd git-latihan
+  106  code .
+  107  ls
+  108  git inti
+  109  git init
+  110  code .
+  111  git --version
+  112  sudo apt update
+  113  sudo apt upgrade
+  114  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+  115  nvm install v14.15.4
+  116  node -v
+  117  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+  118  ls
+  119  cd uas-komdat-24
+  120  code .
+  121  ls
+  122  uas-komdat-24
+  123  cd uas-komdat-24
+  124  code .
+  125  npm install
+  126  npm run start
+  127  Clear
+  128  clear
+  129  npm run start
+  130  d uas-komdat-24
+  131  cd uas-komdat-24
+  132  npm run start
+  133  google-chrome
+  134  cd uas-komdat-24
+  135  code .
+  136  npm run start
+  137  history > command-history.txt
